@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iservice Assignment</string>
+
+    <!-- string values related to spreadsheet -->
+    <string name="new_spreasheet">https://docs.google.com/forms/d/e/1FAIpQLSfYCD06STIigtWAU1vv9R26CPB1ubA7X9F3O9q3Xe2OK2tN7Q/formResponse</string>
+    <string name="image_string">entry.1088503626=</string>
+    <string name="geo_lat_long">entry.499030754=</string>
+    <string name="location_string">entry.415463347=</string>
+</resources>
